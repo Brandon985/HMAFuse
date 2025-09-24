@@ -1,2 +1,3 @@
 # HMAFuse
-Code for A Hybrid State-Space Model with Frequency Interaction for Infrared and Visible Image Fusion
+Code for "Adaptive Frequency Fusion for Infrared and Visible Images with Hybrid State Space Model".
+The code will be released after the paper is accepted.
